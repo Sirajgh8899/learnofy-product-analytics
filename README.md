@@ -3,8 +3,8 @@
 
             An analytics case study focused on student engagement, feature usage, retention, and café promotion performance using SQL, Python, Pandas, KPI design, and data visualization.
 
-           
-**Quick Links:** [SQL](sql/) | [Python Notebook](python/notebooks/learnofy_exploratory_analysis.ipynb) | [KPIs](docs/kpi_definitions.md) | [Data Dictionary](docs/data_dictionary.md) | [Insights](docs/insights.md)
+          
+**Quick Links:** [SQL](sql/) | [Python Notebook](python/notebooks/learnofy_exploratory_analysis.ipynb.ipynb) | [KPIs](docs/kpi_definitions.md) | [Data Dictionary](docs/data_dictionary.md) | [Insights](docs/insights.md)
  
 <img width="1512" height="852" alt="Screenshot 2026-08-13 at 00 48 56" src="https://github.com/user-attachments/assets/85e999f1-ab54-4f13-9944-0af35b1ee7b0" />
 
