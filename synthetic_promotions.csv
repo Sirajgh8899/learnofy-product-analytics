@@ -1,0 +1,13 @@
+promotion_id,cafe_id,cafe_name,title,discount_type,discount_value,min_spend,start_at,end_at,is_active,is_synthetic
+1,1,SipUp,SipUp student offer 1,percent,20,50,2026-04-14,2026-05-05,False,True
+2,1,SipUp,SipUp student offer 2,percent,25,0,2026-04-21,2026-05-12,False,True
+3,1,SipUp,SipUp student offer 3,percent,15,50,2026-04-28,2026-05-19,False,True
+4,2,Espressolab,Espressolab student offer 1,percent,25,75,2026-04-15,2026-05-06,False,True
+5,2,Espressolab,Espressolab student offer 2,percent,10,0,2026-04-22,2026-05-13,False,True
+6,2,Espressolab,Espressolab student offer 3,percent,10,75,2026-04-29,2026-05-20,False,True
+7,3,Brew & Co.,Brew & Co. student offer 1,percent,15,50,2026-04-16,2026-05-07,False,True
+8,3,Brew & Co.,Brew & Co. student offer 2,percent,15,0,2026-04-23,2026-05-14,False,True
+9,3,Brew & Co.,Brew & Co. student offer 3,percent,10,50,2026-04-30,2026-05-21,False,True
+10,4,Campus Beans,Campus Beans student offer 1,percent,10,50,2026-04-17,2026-05-08,False,True
+11,4,Campus Beans,Campus Beans student offer 2,percent,20,50,2026-04-24,2026-05-15,False,True
+12,4,Campus Beans,Campus Beans student offer 3,percent,20,75,2026-05-01,2026-05-22,False,True

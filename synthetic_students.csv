@@ -1,0 +1,31 @@
+student_id,first_name,last_name,email,university,major,year,subscription_status,created_at,segment_label,is_synthetic
+1,Student01,Sample,student01@example.com,Istanbul Technical University,Business Analytics,2nd year,learner,2026-04-26,steady,True
+2,Student02,Sample,student02@example.com,Bogazici University,Management Information Systems,3rd year,basic,2026-04-14,at_risk,True
+3,Student03,Sample,student03@example.com,Bilgi University,Software Development,4th year,basic,2026-04-24,new_user,True
+4,Student04,Sample,student04@example.com,Istanbul Technical University,Business Analytics,1st year,basic,2026-04-14,high_engagement,True
+5,Student05,Sample,student05@example.com,Bogazici University,Management Information Systems,2nd year,learner,2026-04-11,steady,True
+6,Student06,Sample,student06@example.com,Bilgi University,Software Development,3rd year,learner,2026-04-20,at_risk,True
+7,Student07,Sample,student07@example.com,Istanbul Technical University,Business Analytics,4th year,basic,2026-04-07,new_user,True
+8,Student08,Sample,student08@example.com,Bogazici University,Management Information Systems,1st year,basic,2026-04-13,high_engagement,True
+9,Student09,Sample,student09@example.com,Bilgi University,Software Development,2nd year,basic,2026-04-10,steady,True
+10,Student10,Sample,student10@example.com,Istanbul Technical University,Business Analytics,3rd year,learner,2026-04-11,at_risk,True
+11,Student11,Sample,student11@example.com,Bogazici University,Management Information Systems,4th year,learner,2026-04-23,new_user,True
+12,Student12,Sample,student12@example.com,Bilgi University,Software Development,1st year,basic,2026-04-23,high_engagement,True
+13,Student13,Sample,student13@example.com,Istanbul Technical University,Business Analytics,2nd year,basic,2026-04-22,steady,True
+14,Student14,Sample,student14@example.com,Bogazici University,Management Information Systems,3rd year,basic,2026-04-25,at_risk,True
+15,Student15,Sample,student15@example.com,Bilgi University,Software Development,4th year,learner,2026-04-12,new_user,True
+16,Student16,Sample,student16@example.com,Istanbul Technical University,Business Analytics,1st year,learner,2026-04-24,high_engagement,True
+17,Student17,Sample,student17@example.com,Bogazici University,Management Information Systems,2nd year,basic,2026-04-10,steady,True
+18,Student18,Sample,student18@example.com,Bilgi University,Software Development,3rd year,basic,2026-04-20,at_risk,True
+19,Student19,Sample,student19@example.com,Istanbul Technical University,Business Analytics,4th year,basic,2026-04-23,new_user,True
+20,Student20,Sample,student20@example.com,Bogazici University,Management Information Systems,1st year,learner,2026-04-12,high_engagement,True
+21,Student21,Sample,student21@example.com,Bilgi University,Software Development,2nd year,learner,2026-04-08,steady,True
+22,Student22,Sample,student22@example.com,Istanbul Technical University,Business Analytics,3rd year,basic,2026-04-08,at_risk,True
+23,Student23,Sample,student23@example.com,Bogazici University,Management Information Systems,4th year,basic,2026-04-21,new_user,True
+24,Student24,Sample,student24@example.com,Bilgi University,Software Development,1st year,basic,2026-04-25,high_engagement,True
+25,Student25,Sample,student25@example.com,Istanbul Technical University,Business Analytics,2nd year,learner,2026-04-27,steady,True
+26,Student26,Sample,student26@example.com,Bogazici University,Management Information Systems,3rd year,learner,2026-04-20,at_risk,True
+27,Student27,Sample,student27@example.com,Bilgi University,Software Development,4th year,basic,2026-04-23,new_user,True
+28,Student28,Sample,student28@example.com,Istanbul Technical University,Business Analytics,1st year,basic,2026-04-16,high_engagement,True
+29,Student29,Sample,student29@example.com,Bogazici University,Management Information Systems,2nd year,basic,2026-04-22,steady,True
+30,Student30,Sample,student30@example.com,Bilgi University,Software Development,3rd year,learner,2026-04-21,at_risk,True
