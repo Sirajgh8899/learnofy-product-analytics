@@ -1,4 +1,5 @@
-Learnofy — Product Analytics & Business Intelligence Case Study
+    # Learnofy — Product Analytics & Business Intelligence Case Study
+        SQL | Python | Pandas | Product Analytics | KPI Design | Data Visualization
 <img width="1512" height="852" alt="Screenshot 2026-08-13 at 00 48 56" src="https://github.com/user-attachments/assets/85e999f1-ab54-4f13-9944-0af35b1ee7b0" />
 
 Learnofy is a two-sided platform designed for university students and campus cafés.
